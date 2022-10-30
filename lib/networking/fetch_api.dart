@@ -1,3 +1,4 @@
+/*
 import 'dart:convert';
 import 'package:http/http.dart' as http;
 
@@ -27,3 +28,4 @@ Future fetchAPI() async {
   // print(excercise.length);
   return excercise;
 }
+*/
